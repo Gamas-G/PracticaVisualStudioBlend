@@ -1,0 +1,15 @@
+C:\Users\kukul\source\repos\Escritorio\PracticaDiseno\PracticaDiseno\bin\Debug\PracticaDiseno.exe.config
+C:\Users\kukul\source\repos\Escritorio\PracticaDiseno\PracticaDiseno\bin\Debug\PracticaDiseno.exe
+C:\Users\kukul\source\repos\Escritorio\PracticaDiseno\PracticaDiseno\bin\Debug\PracticaDiseno.pdb
+C:\Users\kukul\source\repos\Escritorio\PracticaDiseno\PracticaDiseno\obj\Debug\PracticaDiseno.csprojAssemblyReference.cache
+C:\Users\kukul\source\repos\Escritorio\PracticaDiseno\PracticaDiseno\obj\Debug\MainWindow.g.cs
+C:\Users\kukul\source\repos\Escritorio\PracticaDiseno\PracticaDiseno\obj\Debug\App.g.cs
+C:\Users\kukul\source\repos\Escritorio\PracticaDiseno\PracticaDiseno\obj\Debug\PracticaDiseno_MarkupCompile.cache
+C:\Users\kukul\source\repos\Escritorio\PracticaDiseno\PracticaDiseno\obj\Debug\PracticaDiseno_MarkupCompile.lref
+C:\Users\kukul\source\repos\Escritorio\PracticaDiseno\PracticaDiseno\obj\Debug\MainWindow.baml
+C:\Users\kukul\source\repos\Escritorio\PracticaDiseno\PracticaDiseno\obj\Debug\PracticaDiseno.g.resources
+C:\Users\kukul\source\repos\Escritorio\PracticaDiseno\PracticaDiseno\obj\Debug\PracticaDiseno.Properties.Resources.resources
+C:\Users\kukul\source\repos\Escritorio\PracticaDiseno\PracticaDiseno\obj\Debug\PracticaDiseno.csproj.GenerateResource.cache
+C:\Users\kukul\source\repos\Escritorio\PracticaDiseno\PracticaDiseno\obj\Debug\PracticaDiseno.csproj.CoreCompileInputs.cache
+C:\Users\kukul\source\repos\Escritorio\PracticaDiseno\PracticaDiseno\obj\Debug\PracticaDiseno.exe
+C:\Users\kukul\source\repos\Escritorio\PracticaDiseno\PracticaDiseno\obj\Debug\PracticaDiseno.pdb
